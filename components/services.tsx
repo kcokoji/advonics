@@ -12,7 +12,7 @@ export default function Services() {
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         <div className="flex flex-col gap-4">
           <Image
-            src="/images/plane-1.jpg"
+            src="/images/computer.jpg"
             alt="Plane 1"
             width={400}
             height={400}
@@ -28,7 +28,7 @@ export default function Services() {
         </div>
         <div className="flex flex-col gap-4">
           <Image
-            src="/images/plane-1.jpg"
+            src="/images/cargo.jpg"
             alt="Plane 1"
             width={400}
             height={400}
@@ -44,7 +44,7 @@ export default function Services() {
         </div>
         <div className="flex flex-col gap-4">
           <Image
-            src="/images/plane-1.jpg"
+            src="/images/delivery.jpeg"
             alt="Plane 1"
             width={400}
             height={400}

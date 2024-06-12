@@ -10,7 +10,7 @@ export default function AboutUs() {
     <Container className="bg-muted py-28 flex justify-center items-center flex-col space-y-10 text-blue">
       <div className="grid grid-cols-1  lg:grid-cols-2 gap-10">
         <Image
-          src="/images/plane-1.jpg"
+          src="/images/crane.jpg"
           width={500}
           height={500}
           alt="Mobile Phone"
